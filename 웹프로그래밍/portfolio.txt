@@ -1,0 +1,25 @@
+퍼블리셔
+
+나 - 발전하는 사람이 되고 싶음, 한 곳에 머무는 것이 아닌 끊임없이 학습을 하며 앞으로 나아가고 싶음
+
+기술 - HTML, CSS, javascript, python, node,js, C, mysql, php
+배워야할 기술 - react, typescript, Vue, jQuery, Ps, AI, java
+
+알려야 하는 것 - 퍼블리셔에 관심이 있고 공부를 하고 있으며 학구열이 있음
+
+디자인 - 깔끔함, 전달성
+
+층구조 사이트
+
+
+intro
+
+about me
+skill
+
+project
+
+contact
+
+
+기본 색 - 하양(fff), 민트(RGB 235,230,240), 연분홍(RGB 255,200,250)
